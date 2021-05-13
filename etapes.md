@@ -6,3 +6,4 @@ Beurrer une plaque allant au four et former les cookies sur la plaque. Pour form
 Enfourner pour 10 minutes de cuisson.
 Déguster !
 Apprécier !
+Bon appétit !
